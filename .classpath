@@ -7,5 +7,8 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="lib" path="libs/sidemenu.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/rajawali.jar"/>
+	<classpathentry kind="lib" path="libs/rajawalivuforia.jar"/>
+	<classpathentry kind="lib" path="libs/QCAR.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
