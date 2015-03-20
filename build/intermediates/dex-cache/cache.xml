@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\_home\tmp\virtual-vision\app\libs\rajawalivuforia.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b03c9ae463a82304f3edbe51ae39f852acbce610">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\rajawalivuforia-345138fb7ef926bb9e0ed41879c3486f0f275999.jar" />
+    </item>
+    <item
+        jar="H:\_home\tmp\virtual-vision\app\libs\rajawali.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d98477e27eb574570087329711195b0c35ec931b">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\rajawali-b78305829d3ffebdeab433e80d89ec2811761dd8.jar" />
+    </item>
+    <item
+        jar="F:\System\Software\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-873eaf003cdb3b28e4ac1f438fbbf02330205f5f.jar" />
+    </item>
+    <item
+        jar="H:\_home\tmp\virtual-vision\app\libs\sidemenu.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="325b8b67966b54526d767bee15bff946e861bf95">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\sidemenu-120e1e5f8af3940fdbe750e6daf03304d3019480.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gopi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\gson-2.2.4-aa6c6b52890b72e447401287057636eacdc8abaf.jar" />
+    </item>
+    <item
+        jar="H:\_home\tmp\virtual-vision\app\libs\QCAR.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb2b58a3f6104c4a478d4dc85d1cd3a9920c8944">
+        <dex dex="H:\_home\tmp\virtual-vision\app\build\intermediates\pre-dexed\debug\QCAR-97b8fa283a020a21abee9692b32201051c59142f.jar" />
+    </item>
+
+</items>
