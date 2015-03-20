@@ -1,2 +1,18 @@
 #Gradle
 .gradle/
+
+#Idea intelliJ
+.idea/gradle.xml
+.idea/misc.xml
+.idea/workspace.xml
+*.iml
+
+#Build
+build/
+/*/build/
+
+#Local Settings
+local.properties
+
+#OS
+.DS_Store
