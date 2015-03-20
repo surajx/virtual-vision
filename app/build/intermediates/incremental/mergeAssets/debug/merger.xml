@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\_home\tmp\virtual-vision\app\src\main\assets"><file name="StonesAndChips.dat" path="H:\_home\tmp\virtual-vision\app\src\main\assets\StonesAndChips.dat"/><file name="StonesAndChips.xml" path="H:\_home\tmp\virtual-vision\app\src\main\assets\StonesAndChips.xml"/></source></dataSet><dataSet config="debug"><source path="H:\_home\tmp\virtual-vision\app\src\debug\assets"/></dataSet></merger>
